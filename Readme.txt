@@ -1,1 +1,1 @@
-Creating a Rock Paper Scissor game using HTML5, CSS and Javascript}
+Creating a Rock Paper Scissor game using HTML5, CSS and Javascriptß
